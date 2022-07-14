@@ -1,2 +1,2 @@
 # encrypt
-Encrypts a given string and provides an encryption key to the user.
+Encrypts a given string and provides an encryption key/seed to the user.
